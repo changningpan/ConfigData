@@ -3,6 +3,7 @@ eureka:
     service-url:
         defaultZone: http://localhost:8888/eureka
 
+---
 spring:
   profiles: subject
 words: I,You,He,She,It
